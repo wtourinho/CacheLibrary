@@ -1,8 +1,8 @@
-# Automatically CacheLibrary 
+# Automatic CacheLibrary 
 
 You can use this library to cache your methods result to the MemoryCache automatically or not.
 
-To automatically save a method result to the MemoryCache you should use the AutomaticCache attribute in the method, it will be executing automatically and saving the data in the MemoryCache using the CacheProvider API.
+To automatically save a method result to the MemoryCache you should use the AutomaticCache attribute in the method. It will be executing automatically and saving the data in the MemoryCache using the CacheProvider API.
 
 All methods invocation should be done using the CacheLibrary Execute function to get the data from the cache or save new data when there is no cache hit.
 
