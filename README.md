@@ -1,4 +1,4 @@
-# Automatic CacheLibrary 
+# .NET Automatic CacheLibrary 
 
 You can use this library to cache your methods result to the MemoryCache automatically or not.
 
