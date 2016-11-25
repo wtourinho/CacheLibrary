@@ -1,0 +1,16 @@
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.exe.config
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.exe
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.pdb
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\bin\Debug\CacheLibrary.dll
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\bin\Debug\CacheLibrary.pdb
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.csprojResolveAssemblyReference.cache
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.exe
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.pdb
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.exe.config
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.exe
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\bin\Debug\CacheLibrary.Demo.pdb
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\bin\Debug\CacheLibrary.dll
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\bin\Debug\CacheLibrary.pdb
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.csprojResolveAssemblyReference.cache
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.exe
+D:\Dados\Dropbox\Projects\CacheLibrary\CacheLibrary.Demo\obj\Debug\CacheLibrary.Demo.pdb

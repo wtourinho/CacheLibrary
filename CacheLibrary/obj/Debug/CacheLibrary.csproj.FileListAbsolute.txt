@@ -1,0 +1,5 @@
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary\bin\Debug\CacheLibrary.dll
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary\bin\Debug\CacheLibrary.pdb
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary\obj\Debug\CacheLibrary.csprojResolveAssemblyReference.cache
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary\obj\Debug\CacheLibrary.dll
+D:\Dados\Dropbox\coisas pessoais\BigStuff\Tests\WinFormTests\CacheLibrary\obj\Debug\CacheLibrary.pdb
