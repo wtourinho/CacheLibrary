@@ -6,11 +6,10 @@ To automatically save a method result to the MemoryCache you should use the Auto
 
 All methods invocation should be done using the CacheLibrary Execute function to get the data from the cache or save new data when there is no cache hit.
 
-## Main use
+## Simple use
 
 ```
 [AutomaticCache("GetDataCacheKey", 1 /*Minutes*/)]
-
 public static string GetData() {...}
 ```
 
@@ -25,6 +24,7 @@ var result = CacheManager.Execute(GetData, "GetDataCacheKey");
 ```
 
 
+## Multiple parameters 
 
 For methods with multiple parameters you must use lambda expressions:
 
